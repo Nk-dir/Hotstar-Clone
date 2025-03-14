@@ -30,7 +30,7 @@ Welcome to the Bingo App Deployment project! This project demonstrates how to de
 
 ## 📂 **Code Repository**
 Explore the code and contribute to the project:  
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aseemakram19/bingo1.git)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aseemakram19/hotstar-kubernetes.git)
 
 ---
 ## 📹 **Project Video**
