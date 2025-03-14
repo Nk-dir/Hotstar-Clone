@@ -43,6 +43,10 @@ Watch the step-by-step deployment process:
 | **Project**                                | **Video Link**                                                                                   |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------|
 | **JAVA APPLICATION DEPLOYMENT Project**                     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=R98DHKqAEos) |
+| **Deployment of BINGO in Kubernetes Cluster Monitoring**  | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/j6YxADVF0W8) |
+| **Real-time CICD pipeline Website Jenkins CI CD**         | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/xGWx_cXb9DE) |
+| **DevOps Project , Application deployment on App server via Terraform, Jenkins, SonarQube**                     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/xGWx_cXb9DE) |
+| **Realtime NODE.js App deployment with PM2 , Shell script, Jenkins, SonarQube ,Github ,Domain SSL cert**                     | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/MFtUCfQ1RX0) |
 
 ## 🤝 **Connect with Me**
 
