@@ -24,3 +24,6 @@ sudo apt update
 
 # Install Terraform
 sudo apt-get install terraform -y
+
+## Verify installation
+terraform -v
