@@ -12,3 +12,6 @@ unzip awscliv2.zip
 
 # Run the AWS CLI installation script
 sudo ./aws/install
+
+# Verify installation
+aws --version
