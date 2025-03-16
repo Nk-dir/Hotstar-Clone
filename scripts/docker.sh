@@ -20,3 +20,6 @@ sudo chown root:docker /var/run/docker.sock
 
 # Restart Docker service to apply changes
 sudo systemctl restart docker
+
+# Verify installation
+docker -version
