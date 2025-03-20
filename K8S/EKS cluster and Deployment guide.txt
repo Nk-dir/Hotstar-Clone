@@ -105,11 +105,11 @@ eksctl create cluster --name cluster-name  \
 `	
 ## Mumbai: <br/>
 `
-eksctl create cluster --name hotstar-cluster --region ap-south-1 --node-type t2.medium  --zones ap-south-1a,ap-south-1b
+eksctl create cluster --name cloudaseem-cluster4 --region ap-south-1 --node-type t2.medium  --zones ap-south-1a,ap-south-1b
 `
 ## N. Virgina: <br/>
 `
-eksctl create cluster --name hotstar-cluster --region us-east-1 --node-type t2.medium  --zones us-east-1a,us-east-1b
+eksctl create cluster --name cloudaseem-cluster4 --region us-east-1 --node-type t2.medium  --zones us-east-1a,us-east-1b
 
 ## Note: Cluster creation will take 5 to 10 mins of time (we have to wait). After cluster created we can check nodes using below command.
 
@@ -144,6 +144,8 @@ kubectl get pods
 kubectl describe pod <pod-name>
 
 kubectl logs <pod-name>
+
+kubectl delete pod <pod-name>
 
 
 You have successfully created an EKS cluster with 2 nodes in AWS using eksctl. You can now deploy applications to your Kubernetes cluster.
