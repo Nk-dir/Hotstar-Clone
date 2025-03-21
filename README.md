@@ -35,7 +35,7 @@ Explore the code and contribute to the project:
 ---
 ## 📹 **Project Video**
 Watch the step-by-step deployment process:  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=HeGnExuCVmQ&t=616s)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/VPJ4gesLXOc)
 
 ---
 ## 🚀 **Other DevOps Projects**
